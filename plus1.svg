@@ -1,0 +1,17 @@
+<svg width="90" height="30" viewBox="0 0 90 30" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(55, 0)">
+    <path d="M0 0H22C24.7614 0 27 2.23858 27 5V20C27 22.7614 24.7614 25 22 25H0V0Z" fill="#F3BA00"/>
+    <path d="M6.81081 12.7451H20.4324" stroke="white" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+
+
+  <!-- Number 1 -->
+  <rect x="0" y="0" width="30" height="30" rx="5" ry="5" fill="none" stroke="#F3BA00" stroke-width="3"/>
+  <text x="35" y="20" font-family="Arial" font-size="20" fill="black">1</text> <!-- Number 1 -->
+
+  <!-- Plus SVG -->
+  <g transform="translate(55, 0)">
+    <path d="M0 0H22C24.7614 0 27 2.23858 27 5V20C27 22.7614 24.7614 25 22 25H0V0Z" fill="#F3BA00"/>
+    <path d="M13.6216 12.7451V19.6078M6.81081 12.7451H13.6216H6.81081ZM20.4324 12.7451H13.6216H20.4324ZM13.6216 12.7451V5.88235V12.7451Z" stroke="white" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
